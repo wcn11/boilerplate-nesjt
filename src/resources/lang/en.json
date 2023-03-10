@@ -1,0 +1,8 @@
+{
+    "welcome": "Hallo NestJS",
+    "MESSAGE": {
+        "NOT_FOUND": "Not Found!",
+        "SUCCESSFULL_DELETED": ":Name Deleted!",
+        "SUCCESSFULL_CREATED": ":Name Created!"
+    }
+}
